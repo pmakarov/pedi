@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="PediTest" file="/Volumes/G/paulmakarov/Documents/dev/edi_parse/tests/PediTest.php" tests="4" assertions="5" errors="0" failures="0" skipped="0" time="0.470613">
+    <testcase name="testPediLoadsAnEDIFile" class="PediTest" classname="PediTest" file="/Volumes/G/paulmakarov/Documents/dev/edi_parse/tests/PediTest.php" line="11" assertions="2" time="0.018177"/>
+    <testcase name="testPediHandlesLoadingBadFile" class="PediTest" classname="PediTest" file="/Volumes/G/paulmakarov/Documents/dev/edi_parse/tests/PediTest.php" line="22" assertions="1" time="0.004979"/>
+    <testcase name="testThrowsErrorOnNoFile" class="PediTest" classname="PediTest" file="/Volumes/G/paulmakarov/Documents/dev/edi_parse/tests/PediTest.php" line="32" assertions="1" time="0.003583"/>
+    <testcase name="testItLoadsTheAppropriateX12Schema" class="PediTest" classname="PediTest" file="/Volumes/G/paulmakarov/Documents/dev/edi_parse/tests/PediTest.php" line="39" assertions="1" time="0.443874">
+      <system-out>EDIFACT1850_003050</system-out>
+    </testcase>
+  </testsuite>
+</testsuites>

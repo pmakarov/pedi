@@ -1,0 +1,23 @@
+{   "name": "piEDI/EDI_PARSE",
+    "type": "standard",
+    "description": "An EDI validation and ETL tool.",
+    "homepage": "https://github.com/pmakarov/piEDI",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "EDI_PARSE\\": "EDI/"
+        },
+        "classmap": [
+            "EDI/"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "EDI_PARSE\\": "EDI/"
+        }
+    },
+    "bin": ["bin/EDI_PARSE"],
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    }
+}

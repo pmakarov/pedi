@@ -1,0 +1,16 @@
+
+
+Code Coverage Report:     
+  2018-01-23 00:29:53     
+                          
+ Summary:                 
+  Classes:  0.00% (0/3)   
+  Methods: 50.00% (5/10)  
+  Lines:   80.83% (97/120)
+
+\EDI\X12::EDI\X12\Document
+  Methods:  50.00% ( 1/ 2)   Lines:  20.00% (  2/ 10)
+\EDI\X12::EDI\X12\Parser
+  Methods:   0.00% ( 0/ 1)   Lines:  92.96% ( 66/ 71)
+\EDI\X12::EDI\X12\SchemaTree
+  Methods:  57.14% ( 4/ 7)   Lines:  73.68% ( 28/ 38)
